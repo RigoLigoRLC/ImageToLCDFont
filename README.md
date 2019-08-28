@@ -27,9 +27,9 @@ And after that, we have 2 modes currently, for output format.
 
 * Mode 2: Not implemented yet.
 
-* Mode 3: Split every character into 8-pixels-maximum tall blocks. Read the blocks column by column from left to right, top to bottom; The n-th pixel counted from the top of the column becomes the n-th lowest bit of the output byte of this column.
-
 * Mode 3: Split every character into 8-pixels-maximum tall blocks. Read the blocks column by column from left to right, top to bottom; The n-th pixel counted from the top of the column becomes the n-th highest bit of the output byte of this column.
+
+* Mode 4: Split every character into 8-pixels-maximum tall blocks. Read the blocks column by column from left to right, top to bottom; The n-th pixel counted from the top of the column becomes the n-th lowest bit of the output byte of this column.
 
 The application outputs every character in a C-style array without **";"-s**.
 
