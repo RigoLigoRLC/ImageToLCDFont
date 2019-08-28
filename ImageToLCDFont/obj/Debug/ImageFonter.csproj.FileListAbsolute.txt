@@ -1,0 +1,21 @@
+G:\C#\ImageFonter\ImageFonter\ImageFonter\bin\Debug\ImageFonter.exe.config
+G:\C#\ImageFonter\ImageFonter\ImageFonter\bin\Debug\ImageFonter.exe
+G:\C#\ImageFonter\ImageFonter\ImageFonter\bin\Debug\ImageFonter.pdb
+G:\C#\ImageFonter\ImageFonter\ImageFonter\obj\Debug\ImageFonter.csprojAssemblyReference.cache
+G:\C#\ImageFonter\ImageFonter\ImageFonter\obj\Debug\ImageFonter.csproj.CoreCompileInputs.cache
+G:\C#\ImageFonter\ImageFonter\ImageFonter\obj\Debug\ImageFonter.exe
+G:\C#\ImageFonter\ImageFonter\ImageFonter\obj\Debug\ImageFonter.pdb
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Debug\ImageFonter.exe.config
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Debug\ImageFonter.exe
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Debug\ImageFonter.pdb
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.csprojAssemblyReference.cache
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.csproj.CoreCompileInputs.cache
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.exe
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.pdb
+C:\Users\RigoLigo\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.csprojAssemblyReference.cache
+C:\Users\RigoLigo\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.csproj.CoreCompileInputs.cache
+C:\Users\RigoLigo\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.exe
+C:\Users\RigoLigo\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Debug\ImageFonter.pdb
+C:\Users\RigoLigo\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Debug\ImageFonter.exe.config
+C:\Users\RigoLigo\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Debug\ImageFonter.exe
+C:\Users\RigoLigo\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Debug\ImageFonter.pdb

@@ -1,0 +1,7 @@
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Release\ImageFonter.exe.config
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Release\ImageFonter.exe
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\bin\Release\ImageFonter.pdb
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Release\ImagetoLCDFont.csprojAssemblyReference.cache
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Release\ImagetoLCDFont.csproj.CoreCompileInputs.cache
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Release\ImageFonter.exe
+C:\Users\stars\OneDrive\Soldering Iron Project\ImageFonter\ImageFonter\obj\Release\ImageFonter.pdb
