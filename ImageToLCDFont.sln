@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToLCDFont", "ImageToLCDFont\ImageToLCDFont.csproj", "{525CB426-7FE0-4CC1-81B1-2BADF7D2291D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525CB426-7FE0-4CC1-81B1-2BADF7D2291D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525CB426-7FE0-4CC1-81B1-2BADF7D2291D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525CB426-7FE0-4CC1-81B1-2BADF7D2291D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525CB426-7FE0-4CC1-81B1-2BADF7D2291D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE24F1A-E45E-47FB-A0A1-B116107DD73D}
+	EndGlobalSection
+EndGlobal
